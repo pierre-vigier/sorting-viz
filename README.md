@@ -1,5 +1,7 @@
 # sorting-viz
 
+Visualization of bubble sort, using vue.js, vuetify and canvas for rendering
+
 ## Project setup
 ```
 yarn install
